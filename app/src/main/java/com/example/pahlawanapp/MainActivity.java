@@ -55,10 +55,10 @@ public class MainActivity extends AppCompatActivity {
         detailPahlawan.put("Pattimura", new Pahlawan(
                 "Kapitan Pattimura",
                 R.drawable.pattimura,
-                "Kapitan Pattimura (Thomas Matulessy, 8 Juni 1783 – 16 Desember 1817)Thomas Matulessy, atau yang lebih dikenal sebagai Kapten Pattimura, adalah pahlawan nasional dari Maluku yang memimpin perlawanan rakyat melawan penjajahan Belanda pada tahun 1817. Dengan keberanian dan strategi militernya, Pattimura berhasil mempersatukan rakyat Maluku untuk melawan penindasan. Meski akhirnya gugur di tangan penjajah, perjuangannya meninggalkan warisan semangat pantang menyerah bagi generasi penerus. Ia menjadi simbol perlawanan rakyat Maluku dalam mempertahankan martabat dan tanah air mereka."
+                "Kapitan Pattimura (Thomas Matulessy, 8 Juni 1783 – 16 Desember 1817)Thomas Matulessy, atau yang lebih dikenal sebagai Kapitan Pattimura, adalah pahlawan nasional dari Maluku yang memimpin perlawanan rakyat melawan penjajahan Belanda pada tahun 1817. Dengan keberanian dan strategi militernya, Pattimura berhasil mempersatukan rakyat Maluku untuk melawan penindasan. Meski akhirnya gugur di tangan penjajah, perjuangannya meninggalkan warisan semangat pantang menyerah bagi generasi penerus. Ia menjadi simbol perlawanan rakyat Maluku dalam mempertahankan martabat dan tanah air mereka."
         ));
         detailPahlawan.put("Imam Bonjol", new Pahlawan(
-                "Tuanku Imam Bonjol",
+                "Tuanku Imam Bonjol",g
                 R.drawable.imambonjol,
                 "Tuanku Imam Bonjol adalah pemimpin ulama sekaligus pejuang yang memimpin Perang Padri di Sumatera Barat melawan kolonial Belanda pada awal abad ke-19. Ia berjuang untuk mempertahankan ajaran Islam dan nilai-nilai adat Minangkabau dari pengaruh penjajahan. Meski pada akhirnya ditangkap dan diasingkan oleh Belanda, perjuangannya menjadi inspirasi besar dalam melawan penindasan. Imam Bonjol kini dikenang sebagai simbol perlawanan rakyat yang berlandaskan pada nilai agama dan kebangsaan."
         ));
